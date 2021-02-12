@@ -4,6 +4,8 @@
 
 제작자 : 유민규, 송예진, 박인영, 박경미, 김대환
 
+## 이슈 탭에서 개발 화면을 확인할 수 있습니다.
+https://github.com/mg6613/AndroidProject_MakeKit/issues/1
 ---
 
 ## G-Email 인증 시 설정
